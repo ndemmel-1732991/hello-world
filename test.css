@@ -1,5 +1,7 @@
 body {
     background-image: url('dark_wood.png');
+    border:solid 8px black;
+    background-color: #8E41D5;
 }
 
 p {
@@ -30,4 +32,6 @@ li {
     font-family: "Passion One";
     color: #ffbc00;
     font-weight: bold;
+    border:solid 8px black;
+    background-color: #8E41D5;
 }
