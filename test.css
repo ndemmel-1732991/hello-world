@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+background-image: url('dark_wood.png');
 
 }
 
@@ -45,6 +45,7 @@ li {
         margin-bottom: 10px;
         border:solid 8px black;
         background-color: #8E41D5;
+        padding-bottom: 8px;
 }
 
 Content {
@@ -56,6 +57,7 @@ Content {
         margin-bottom: 10px;
         border:solid 8px black;
         background-color: #8E41D5;
+        padding: 15px;
 }
 
 #Footer {
