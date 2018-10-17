@@ -1,0 +1,32 @@
+body {
+    background-image: url('dark_wood.png');
+}
+
+p {
+
+}
+
+h3 {
+
+}
+
+li {
+
+}
+
+#Header {
+    text-align: center;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border:solid 8px black;
+    background-color: #8E41D5;
+}
+
+#Header h1 {
+    font-size: 60px;
+    font-family: "Passion One";
+    color: #ffbc00;
+    font-weight: bold;
+}
