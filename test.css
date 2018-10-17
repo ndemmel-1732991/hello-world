@@ -38,7 +38,7 @@ li {
 
 }
 #LeftNav {
-    #Header {
+        float: left;
         text-align: center;
         width: 400px;
         margin-left: auto;
@@ -49,7 +49,7 @@ li {
 }
 
 Content {
-    #Header {
+ 
         text-align: center;
         width: 700px;
         margin-left: auto;
