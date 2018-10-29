@@ -2401,7 +2401,7 @@
 				}
 
 		ul.actions {
-			cursor: default;
+			cursor: pointer;
 			list-style: none;
 			padding-left: 0;
 		}
@@ -3391,24 +3391,24 @@
 
 			.wrapper.style3 input[type="checkbox"]:focus + label:before,
 			.wrapper.style3 input[type="radio"]:focus + label:before {
-				border-color: #00cdcf;
+				border-color: #ffffb3;
 				box-shadow: 0 0 0 1px #00cdcf;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
-				color: #00cdcf !important;
+				color: #ffe6ff !important;
 			}
 
 			.wrapper.style3 :-moz-placeholder {
-				color: #00cdcf !important;
+				color: #ccffe6 !important;
 			}
 
 			.wrapper.style3 ::-moz-placeholder {
-				color: #00cdcf !important;
+				color: #e6ccff !important;
 			}
 
 			.wrapper.style3 :-ms-input-placeholder {
-				color: #00cdcf !important;
+				color: #99ff99 !important;
 			}
 
 			.wrapper.style3 .formerize-placeholder {
